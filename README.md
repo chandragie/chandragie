@@ -1,11 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chandra Wijaya
-======================================================================================================================================
+# <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30px"/> Good day to you!
 
-*   🌍  I'm based in Jakarta, Indonesia
-*   🖥️  [chandrawijaya.dev](http://chandrawijaya.dev)
-*   🧠  I'm learning Svelte, GSAP & Flutter
 
-### Skills 
+Welcome to my page!<br/>
+I'm Chandra Wijaya, a full stack developer, father of two beautiful daughters, guitarist, forever learner, coffee addict, and minimalism practitioner.
+
+🌍  I live in Jakarta, Indonesia 🇮🇩<br/>
+🌱  I’m working at [Bank Central Asia, Tbk](https://bca.co.id)<br/>
+🧠  I'm currently learning Svelte, GSAP & Flutter<br/>
+
+My experiences are not only as a programmer but also as a business analyst and team leader. I am familiar with some development strategy frameworks like Scrum and 4DX.
+
+My team size currently consists of more than 20 people which gives me opportunity to escalate my teamwork skill, leadership, management and also communication. I am an open minded person to learn new things especially in technology which will never stop!
+
+### Some of my stacks
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -31,37 +39,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
   
-### My GitHub Stats
-<!--
-<a href="http://www.github.com/chandragie"><img src="https://github-readme-stats.vercel.app/api?username=chandragie&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="chandragie's GitHub stats" /></a>
--->
-<a href="https://github.com/chandragie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandragie&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Socials
-
- <p align="left">
-                      <a href="https://www.github.com/chandragie" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/chandra-wijaya" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.x.com/chandragie" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-                    </picture>
-                    </a>
- </p>
- 
-### Support Me
-<a href="https://www.buymeacoffee.com/chandragie"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+### Where to find me
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-white?style=flat&link=chandrawijaya.dev/)](chandrawijaya.dev/) 
+[![Linkedin Badge](https://img.shields.io/badge/-chandrawijaya-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandrawijaya/)](https://www.linkedin.com/in/chandra-wijaya/) 
+[![Github Badge](https://img.shields.io/badge/-chandragie-grey?style=flat&logo=github&logoColor=white&link=https://github.com/chandragie/)](https://www.github.com/chandragie/) 
+[![Twitter Badge](https://img.shields.io/badge/-chandragie-black?style=flat&logo=x&logoColor=white&link=https://twitter.com/chandragie/)](https://www.twitter.com/chandragie/) 
