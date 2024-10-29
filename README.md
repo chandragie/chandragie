@@ -41,7 +41,7 @@ My team size currently consists of more than 20 people which gives me opportunit
   
 
 ### Where to find me
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-white?style=flat&link=chandrawijaya.dev/)](chandrawijaya.dev/) 
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-white?style=flat&link=chandrawijaya.dev/)](https://chandrawijaya.dev/) 
 [![Linkedin Badge](https://img.shields.io/badge/-chandrawijaya-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandrawijaya/)](https://www.linkedin.com/in/chandra-wijaya/) 
 [![Github Badge](https://img.shields.io/badge/-chandragie-grey?style=flat&logo=github&logoColor=white&link=https://github.com/chandragie/)](https://www.github.com/chandragie/) 
 [![Twitter Badge](https://img.shields.io/badge/-chandragie-black?style=flat&logo=x&logoColor=white&link=https://twitter.com/chandragie/)](https://www.twitter.com/chandragie/) 
